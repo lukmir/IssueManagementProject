@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMP_Notify/IMP_Notify.iml" filepath="$PROJECT_DIR$/IMP_Notify/IMP_Notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMP_Users/IMP_Users.iml" filepath="$PROJECT_DIR$/IMP_Users/IMP_Users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMS_Tasks/IMS_Tasks.iml" filepath="$PROJECT_DIR$/IMS_Tasks/IMS_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IssueManagementProject.iml" filepath="$PROJECT_DIR$/IssueManagementProject.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IMP_Users:war">
+    <output-path>$PROJECT_DIR$/IMP_Users/target</output-path>
+    <root id="archive" name="IMP_Users.war">
+      <element id="artifact" artifact-name="IMP_Users:war exploded" />
+    </root>
+  </artifact>
+</component>

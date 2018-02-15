@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="IMP_Notify" />
+        <module name="IMP_Users" />
+        <module name="IMS_Tasks" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="IMP_Notify" target="1.8" />
+      <module name="IMP_Users" target="1.8" />
+      <module name="IMS_Notify" target="1.8" />
+      <module name="IMS_Tasks" target="1.8" />
+      <module name="IMS_Users" target="1.8" />
+      <module name="IssueManagementProject" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

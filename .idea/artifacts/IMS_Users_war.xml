@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IMS_Users:war">
+    <output-path>$PROJECT_DIR$/IMS_Users/target</output-path>
+    <root id="archive" name="IMS_Users-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IMS_Users:war exploded" />
+    </root>
+  </artifact>
+</component>

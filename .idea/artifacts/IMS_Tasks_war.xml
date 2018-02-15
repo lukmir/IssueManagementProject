@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IMS_Tasks:war">
+    <output-path>$PROJECT_DIR$/IMS_Tasks/target</output-path>
+    <root id="archive" name="IMS_Tasks.war">
+      <element id="artifact" artifact-name="IMS_Tasks:war exploded" />
+    </root>
+  </artifact>
+</component>

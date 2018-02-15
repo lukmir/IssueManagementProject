@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IMP_Notify:war exploded">
+    <output-path>$PROJECT_DIR$/IMP_Notify/target/IMP_Notify</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IMP_Notify" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/IMP_Notify/target/IMP_Notify/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="IMP_Notify/web/Web" />
+    </root>
+  </artifact>
+</component>

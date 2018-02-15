@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IMS_Tasks:war exploded">
+    <output-path>$PROJECT_DIR$/IMS_Tasks/target/IMS_Tasks</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IMS_Tasks" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/IMS_Tasks/target/IMS_Tasks/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="IMS_Tasks/web/Web" />
+    </root>
+  </artifact>
+</component>
